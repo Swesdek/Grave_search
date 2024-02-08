@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5897a9dd.css",
+    "main.js": "/static/js/main.30c3d883.js",
+    "static/media/firstBlockBg.png": "/static/media/firstBlockBg.6d26ce9433d1f8cf7396.png",
+    "static/media/quesBlockCem.png": "/static/media/quesBlockCem.55e7f8c8e0a7dc626203.png",
+    "static/media/thirdBlockArch.png": "/static/media/thirdBlockArch.0d07418e4b633c14e7a1.png",
+    "static/media/reviewsBlockPic.png": "/static/media/reviewsBlockPic.1b043e48bb1c33eb3826.png",
+    "static/media/contactBlockPhone.png": "/static/media/contactBlockPhone.3397a92c35f37320d978.png",
+    "static/media/secondBlock1pic.png": "/static/media/secondBlock1pic.072189f1f40ecfb9401a.png",
+    "static/media/secondBlock2pic.png": "/static/media/secondBlock2pic.f8477108f76cc7a1fbce.png",
+    "static/media/algorythmStepsPic.png": "/static/media/algorythmStepsPic.5a6448eefea915a136c5.png",
+    "static/media/addServiceCarn.svg": "/static/media/addServiceCarn.9282b398916c4e5ddf8bad2f38dcd871.svg",
+    "static/media/addServiceBroom.svg": "/static/media/addServiceBroom.c90972ea8aac8633332d62d08d6a89b3.svg",
+    "static/media/addServiceTass.svg": "/static/media/addServiceTass.bb69c5dc8bf20a4c89f6fd8cb2e0165a.svg",
+    "static/media/addServiceTrow.svg": "/static/media/addServiceTrow.7c0ae98fc76a352ba7f7a8efa4822355.svg",
+    "static/media/contactBlockWA.svg": "/static/media/contactBlockWA.2bd022a4f2bc49701a16ea95b34e10e7.svg",
+    "static/media/contactBlockSK.svg": "/static/media/contactBlockSK.869829eeae3f1ec0780877300160b11c.svg",
+    "static/media/mainServiceBooks.svg": "/static/media/mainServiceBooks.8578f28910cd9209d981a09a22e05f76.svg",
+    "static/media/mainServiceChurch.svg": "/static/media/mainServiceChurch.7db9cde7188472cf3723598866dd0965.svg",
+    "static/media/mainServiceSystem.svg": "/static/media/mainServiceSystem.2163c48caacade2abceeb998501312bf.svg",
+    "static/media/mainServiceSyn.svg": "/static/media/mainServiceSyn.da942467a65e0ed174f2d67c81a03999.svg",
+    "static/media/addServiceGS.svg": "/static/media/addServiceGS.ef87380423ba66fca51b080f721ee9c0.svg",
+    "static/media/mainServiceLostDocs.svg": "/static/media/mainServiceLostDocs.28e0e42230fb0416287967d3a94b860d.svg",
+    "index.html": "/index.html",
+    "static/media/contactBlockTG.svg": "/static/media/contactBlockTG.c193fa00518b612bca40c92e5d5242ea.svg",
+    "static/media/mainServiceCem.svg": "/static/media/mainServiceCem.d87cbf2a42681456c4a005df6249b15e.svg",
+    "static/media/addServiceMon.svg": "/static/media/addServiceMon.2085a439a72620a6661db2fa671bd979.svg",
+    "static/media/faqBlockOpenIcon.svg": "/static/media/faqBlockOpenIcon.a503552f20b144939262849ba684517d.svg",
+    "static/media/reviewsBlockPrev.svg": "/static/media/reviewsBlockPrev.33f6e3e43ef2d74e5b0deb719cebbee1.svg",
+    "static/media/reviewsBlockNext.svg": "/static/media/reviewsBlockNext.e74c57f437c8223feb9999a0d17c2679.svg",
+    "main.5897a9dd.css.map": "/static/css/main.5897a9dd.css.map",
+    "main.30c3d883.js.map": "/static/js/main.30c3d883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5897a9dd.css",
+    "static/js/main.30c3d883.js"
+  ]
+}
